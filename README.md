@@ -16,13 +16,12 @@
 
 ## ▌ ABOUT · 关于
 
-我是 **F0Xy 🦊（小狐狸）**，北师港浸大 UIC / BNBU 的 AI 在读本科生。
-喜欢把想法做成**真正跑得起来的东西**，从全栈系统到机器学习实验都折腾。
-最近在搞**交通流预测的图神经网络**、推荐系统，还有一堆给同学用的小工具。技术之外也玩量化交易和摄影。
+这里是 **F0Xy 🦊**，北师港浸大 AI 本科在读。有大量的**商业项目开发经历**（BLACKPINK 深 / 港 / 澳快闪线上预约系统与电商系统）。最近在搞**交通流预测的图神经网络**和推荐系统，还给身边同学写了一大堆实用小工具。技术之外也玩量化交易、拍拍照片，日子基本就是代码与生活反复横跳。
 
-> I'm **F0Xy**, an AI undergrad at UIC / BNBU.
-> I turn ideas into things that actually run, from full-stack systems to ML experiments.
-> Currently into graph neural nets for traffic forecasting, recommender systems, and small tools people actually use.
+> Hey, I'm **F0Xy**, an AI undergrad at UIC / BNBU.
+> Plenty of real-world commercial dev experience, including the online booking and e-commerce systems for the BLACKPINK pop-ups in Shenzhen, Hong Kong and Macau.
+> Lately into graph neural nets for traffic forecasting and recommender systems, plus a pile of handy tools for classmates.
+> Off the clock I trade, shoot photos, and bounce between code and life.
 
 **`Build small, ship often.`**
 
