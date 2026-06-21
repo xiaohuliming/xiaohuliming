@@ -68,43 +68,19 @@
 
 > 我更愿意用项目说话 · These are the things I actually built.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=Xtraffic-forecast&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="Xtraffic-forecast" /></a>
-<br/><br/>
-<b>交通流预测的图神经网络对比研究</b><br/>
-▸ 在 XTraffic 2023 上对比 FourierDualNet、GraphWaveNet、IGSTGNN<br/>
-▸ 聚焦事故场景下的预测表现<br/>
-<code>PyTorch</code> <code>PyG</code> <code>STGNN</code>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/xiaohuliming/KOOK-play-system"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=KOOK-play-system&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="KOOK-play-system" /></a>
-<br/><br/>
-<b>陪玩店全栈运营系统 + KOOK 机器人</b><br/>
-▸ 五级 RBAC、跨三模式订单状态机、双币种财务与提现<br/>
-▸ Webhook 驱动机器人实时同步，Celery 自动结算<br/>
-▸ 生产运行，累计处理约 ¥600K 流水<br/>
-<code>Flask</code> <code>Vue</code> <code>MySQL</code> <code>Redis</code> <code>Celery</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xiaohuliming/BNBU-scheduler"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=BNBU-scheduler&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="BNBU-scheduler" /></a>
-<br/><br/>
-<b>北师港浸大 iSpace 课程 / 师资 / DDL 查询系统</b><br/>
-▸ 聚合课表、师资与截止日期，一站式查询<br/>
-<code>Flask</code> <code>Python</code>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/xiaohuliming/MLWcode"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=MLWcode&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="MLWcode" /></a>
-<br/><br/>
-<b>Spaceship Titanic · Kaggle 集成模型</b><br/>
-▸ AI3023 机器学习 Workshop 项目，多模型 ensemble<br/>
-<code>scikit-learn</code> <code>Jupyter</code>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=Xtraffic-forecast&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="Xtraffic-forecast" /></a>
+<a href="https://github.com/xiaohuliming/KOOK-play-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=KOOK-play-system&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="KOOK-play-system" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/xiaohuliming/BNBU-scheduler"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=BNBU-scheduler&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="BNBU-scheduler" /></a>
+<a href="https://github.com/xiaohuliming/MLWcode"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=MLWcode&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="MLWcode" /></a>
+</p>
+
+▸ **Xtraffic-forecast** · 交通流预测 GNN 对比（FourierDualNet / GraphWaveNet / IGSTGNN），聚焦事故场景 · `PyTorch` `PyG`
+▸ **KOOK-play-system** · 陪玩店全栈运营 + 机器人，生产累计约 ¥600K 流水 · `Flask` `Vue` `Celery`
+▸ **BNBU-scheduler** · 北师港浸大 iSpace 课程 / 师资 / DDL 查询 · `Flask`
+▸ **MLWcode** · Spaceship Titanic · Kaggle 集成模型 · `scikit-learn`
 
 **更多 · More**
 
