@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/marquee.svg" alt="BUILD SMALL // SHIP OFTEN // FULL-STACK // AI/ML // QUANT" width="850"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=0A84FF&center=true&vCenter=true&width=760&height=46&lines=Full-Stack+Developer;AI+%2F+ML+Explorer;Flask+%C2%B7+Vue+%C2%B7+PyTorch;Build+small%2C+ship+often." alt="roles" />
 </p>
 
@@ -102,6 +106,10 @@
 为 Deming Asia 交付的 BLACKPINK 快闪店系统：ROSÉ 深圳 / 澳门、LISA 香港的线上预约与限量周边商城，累计服务 **20,000+ 用户**，技术涵盖 `Flask` `微信小程序` `uni-app` `React`。客户商业项目，代码私有。
 
 ---
+
+<p align="center">
+  <img src="./assets/marquee.svg" alt="marquee" width="850"/>
+</p>
 
 ## ▌ GITHUB STATS · 数据
 
