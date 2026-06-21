@@ -31,6 +31,15 @@
 
 ---
 
+<img src="./assets/h-now.svg" alt="NOW · 正在做" height="36"/>
+
+▸ **科研 Research** · 交通流预测的图神经网络（FourierDualNet vs STGNN）
+▸ **量化 Quant** · 加密市场策略回测与实盘
+▸ **工具 Tools** · 持续给同学写实用小工具
+▸ **在读 Study** · 北师港浸大 AI · 2027 届
+
+---
+
 <img src="./assets/h-stack.svg" alt="TECH STACK · 技术栈" height="36"/>
 
 **Languages**
@@ -124,6 +133,18 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xiaohuliming/xiaohuliming/output/snake.svg" alt="contribution snake" />
+</p>
+
+<p align="center">
+<img src="./assets/metrics-isocalendar.svg" alt="3D isometric contribution calendar" width="500"/>
+</p>
+
+---
+
+<img src="./assets/h-achievements.svg" alt="ACHIEVEMENTS · 成就" height="36"/>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=xiaohuliming&title_color=0A84FF&text_color=111111&icon_color=FF453A&bg_color=f4f1ea&border_color=111111&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 ---
