@@ -141,14 +141,6 @@
 
 ---
 
-<img src="./assets/h-achievements.svg" alt="ACHIEVEMENTS · 成就" height="36"/>
-
-<p align="center">
-<img src="./assets/metrics-achievements.svg" alt="GitHub achievements" width="500"/>
-</p>
-
----
-
 <img src="./assets/h-connect.svg" alt="CONNECT · 联系" height="36"/>
 
 <p align="center">
