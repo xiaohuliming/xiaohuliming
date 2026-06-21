@@ -144,7 +144,7 @@
 <img src="./assets/h-achievements.svg" alt="ACHIEVEMENTS · 成就" height="36"/>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=xiaohuliming&title_color=0A84FF&text_color=111111&icon_color=FF453A&bg_color=f4f1ea&border_color=111111&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="./assets/metrics-achievements.svg" alt="GitHub achievements" width="500"/>
 </p>
 
 ---
