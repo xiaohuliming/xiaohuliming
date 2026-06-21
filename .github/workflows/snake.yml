@@ -19,7 +19,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=0A84FF&color_dots=#f4f1ea,#FFD60A,#FF8C00,#FF453A,#111111
+            dist/snake.svg?color_snake=FF453A&color_dots=#f4f1ea,#5DCAA5,#0A84FF,#FFD60A,#FF453A
+
+      - name: crop to the data region (hide the empty earlier weeks)
+        run: |
+          sed -i -E 's#viewBox="-?[0-9]+ -?[0-9]+ [0-9]+ [0-9]+" width="[0-9]+" height="[0-9]+"#viewBox="540 -32 330 192" width="660" height="384"#' dist/snake.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
