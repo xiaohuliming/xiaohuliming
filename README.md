@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="F0Xy · 黄子隽" width="850"/>
+  <img src="./assets/hero.svg" alt="F0Xy · 黄子隽" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/marquee.svg" alt="BUILD SMALL // SHIP OFTEN // FULL-STACK // AI/ML // QUANT" width="850"/>
+  <img src="./assets/marquee.svg" alt="BUILD SMALL // SHIP OFTEN // FULL-STACK // AI/ML // QUANT" width="100%"/>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 
 > 我更愿意用项目说话 · These are the things I actually built.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=Xtraffic-forecast&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="Xtraffic-forecast" /></a>
@@ -117,7 +117,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/marquee.svg" alt="marquee" width="850"/>
+  <img src="./assets/marquee.svg" alt="marquee" width="100%"/>
 </p>
 
 <img src="./assets/h-stats.svg" alt="GITHUB STATS · 数据" height="36"/>
@@ -128,15 +128,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuliming&bg_color=f4f1ea&color=111111&line=0A84FF&point=FF453A&area=true&area_color=FFD60A&hide_border=false&border_color=111111&radius=0&custom_title=Contribution%20Activity" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuliming&bg_color=f4f1ea&color=111111&line=0A84FF&point=FF453A&area=true&area_color=FFD60A&hide_border=false&border_color=111111&radius=0&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/xiaohuliming/xiaohuliming/output/snake.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
-<img src="./assets/metrics-isocalendar.svg" alt="3D isometric contribution calendar" width="500"/>
+<img src="https://raw.githubusercontent.com/xiaohuliming/xiaohuliming/output/snake.svg" alt="contribution snake" width="100%" />
 </p>
 
 ---
