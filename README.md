@@ -69,18 +69,13 @@
 > 我更愿意用项目说话 · These are the things I actually built.
 
 <p align="center">
-<a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=Xtraffic-forecast&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="Xtraffic-forecast" /></a>
-<a href="https://github.com/xiaohuliming/KOOK-play-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=KOOK-play-system&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="KOOK-play-system" /></a>
+<a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="48%" src="./assets/card-xtraffic.svg" alt="Xtraffic-forecast" /></a>
+<a href="https://github.com/xiaohuliming/KOOK-play-system"><img width="48%" src="./assets/card-kook.svg" alt="KOOK-play-system" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/xiaohuliming/BNBU-scheduler"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=BNBU-scheduler&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="BNBU-scheduler" /></a>
-<a href="https://github.com/xiaohuliming/MLWcode"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohuliming&repo=MLWcode&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&show_owner=false" alt="MLWcode" /></a>
+<a href="https://github.com/xiaohuliming/BNBU-scheduler"><img width="48%" src="./assets/card-bnbu.svg" alt="BNBU-scheduler" /></a>
+<a href="https://github.com/xiaohuliming/MLWcode"><img width="48%" src="./assets/card-mlw.svg" alt="MLWcode" /></a>
 </p>
-
-▸ **Xtraffic-forecast** · 交通流预测 GNN 对比（FourierDualNet / GraphWaveNet / IGSTGNN），聚焦事故场景 · `PyTorch` `PyG`
-▸ **KOOK-play-system** · 陪玩店全栈运营 + 机器人，生产累计约 ¥600K 流水 · `Flask` `Vue` `Celery`
-▸ **BNBU-scheduler** · 北师港浸大 iSpace 课程 / 师资 / DDL 查询 · `Flask`
-▸ **MLWcode** · Spaceship Titanic · Kaggle 集成模型 · `scikit-learn`
 
 **更多 · More**
 
