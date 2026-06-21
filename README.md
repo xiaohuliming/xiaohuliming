@@ -18,7 +18,7 @@
 
 ---
 
-## ▌ ABOUT · 关于
+<img src="./assets/h-about.svg" alt="ABOUT · 关于" height="36"/>
 
 这里是 **F0Xy 🦊**，北师港浸大 AI 本科在读。有大量的**商业项目开发经历**（BLACKPINK 深 / 港 / 澳快闪线上预约系统与电商系统）。最近在搞**交通流预测的图神经网络**和推荐系统，还给身边同学写了一大堆实用小工具。技术之外也玩量化交易、拍拍照片，日子基本就是代码与生活反复横跳。
 
@@ -31,7 +31,7 @@
 
 ---
 
-## ▌ TECH STACK · 技术栈
+<img src="./assets/h-stack.svg" alt="TECH STACK · 技术栈" height="36"/>
 
 **Languages**
 
@@ -55,7 +55,7 @@
 
 ---
 
-## ▌ PROJECTS · 精选项目
+<img src="./assets/h-projects.svg" alt="PROJECTS · 精选项目" height="36"/>
 
 > 我更愿意用项目说话 · These are the things I actually built.
 
@@ -111,7 +111,7 @@
   <img src="./assets/marquee.svg" alt="marquee" width="850"/>
 </p>
 
-## ▌ GITHUB STATS · 数据
+<img src="./assets/h-stats.svg" alt="GITHUB STATS · 数据" height="36"/>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaohuliming&show_icons=true&include_all_commits=true&count_private=true&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&hide_border=false" alt="stats" />
@@ -128,7 +128,7 @@
 
 ---
 
-## ▌ CONNECT · 联系
+<img src="./assets/h-connect.svg" alt="CONNECT · 联系" height="36"/>
 
 <p align="center">
 <a href="mailto:xiaohulimings@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FF453A" alt="email" /></a>

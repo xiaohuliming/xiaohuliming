@@ -23,7 +23,7 @@ jobs:
 
       - name: crop to the data region (hide the empty earlier weeks)
         run: |
-          sed -i -E 's#viewBox="-?[0-9]+ -?[0-9]+ [0-9]+ [0-9]+" width="[0-9]+" height="[0-9]+"#viewBox="540 -32 330 192" width="660" height="384"#' dist/snake.svg
+          sudo sed -i -E 's#viewBox="-?[0-9]+ -?[0-9]+ [0-9]+ [0-9]+" width="[0-9]+" height="[0-9]+"#viewBox="540 -32 330 192" width="660" height="384"#' dist/snake.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4

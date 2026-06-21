@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 46" width="290" height="46" role="img" aria-label="PROJECTS 精选项目">
+<style>
+ .blk{animation:cyc 3s linear infinite}
+ @keyframes cyc{0%,100%{fill:#0A84FF}33%{fill:#FF453A}66%{fill:#FFD60A}}
+ .swp{animation:swp 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:left center}
+ @keyframes swp{0%{transform:scaleX(.06)}50%{transform:scaleX(1)}100%{transform:scaleX(.06)}}
+ .ttl{font-family:'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif;font-weight:800;animation:in .6s cubic-bezier(.2,.9,.2,1) both}
+ @keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<rect class="blk" x="3" y="9" width="8" height="28"/>
+<text class="ttl" x="24" y="32" font-size="22" fill="#111111">PROJECTS · 精选项目</text>
+<rect class="swp" x="24" y="39" width="258" height="4" fill="#0A84FF"/>
+</svg>
