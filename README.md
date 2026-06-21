@@ -97,6 +97,10 @@
 
 [![ddl-helper](https://img.shields.io/badge/BNBU--ispace--ddl--helper-Chrome%20Ext-111111?style=flat-square&logo=googlechrome&logoColor=FFD60A)](https://github.com/xiaohuliming/BNBU-ispace-ddl-helper) [![recommendation](https://img.shields.io/badge/Content--based--recommendation-Recsys-111111?style=flat-square&logo=python&logoColor=0A84FF)](https://github.com/xiaohuliming/Content-based-recommendation) [![all repos](https://img.shields.io/badge/All%20Repos-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaohuliming?tab=repositories)
 
+**商业项目 · Commercial (client work, private)**
+
+为 Deming Asia 交付的 BLACKPINK 快闪店系统：ROSÉ 深圳 / 澳门、LISA 香港的线上预约与限量周边商城，累计服务 **20,000+ 用户**，技术涵盖 `Flask` `微信小程序` `uni-app` `React`。客户商业项目，代码私有。
+
 ---
 
 ## ▌ GITHUB STATS · 数据
