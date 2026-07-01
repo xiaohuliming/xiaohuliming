@@ -20,12 +20,12 @@
 
 <img src="./assets/h-about.svg" alt="ABOUT · 关于" height="36"/>
 
-这里是 **F0Xy 🦊**，北师港浸大 AI 本科在读。有大量的**商业项目开发经历**（BLACKPINK 深 / 港 / 澳快闪线上预约系统与电商系统）。最近在搞**交通流预测的图神经网络**和推荐系统，还给身边同学写了一大堆实用小工具。技术之外也玩量化交易、拍拍照片，日子基本就是代码与生活反复横跳。
+这里是 **F0Xy 🦊**，北师港浸大 AI 本科在读。有大量的**商业项目开发经历**（BLACKPINK 深 / 港 / 澳快闪线上预约系统与电商系统）。最近在做**交通流预测的图神经网络**和推荐系统，也写了一堆小工具。技术之外也喜欢量化交易、Crypto、拍拍照片，日子基本就是代码与生活之间反复横跳。
 
 > Hey, I'm **F0Xy**, an AI undergrad at UIC / BNBU.
 > Plenty of real-world commercial dev experience, including the online booking and e-commerce systems for the BLACKPINK pop-ups in Shenzhen, Hong Kong and Macau.
 > Lately into graph neural nets for traffic forecasting and recommender systems, plus a pile of handy tools for classmates.
-> Off the clock I trade, shoot photos, and bounce between code and life.
+> Off the clock I trade, crypto, shoot photos, and bounce between code and life.
 
 **`Build small, ship often.`**
 
@@ -35,8 +35,8 @@
 
 ▸ **科研 Research** · 交通流预测的图神经网络（FourierDualNet vs STGNN）
 ▸ **量化 Quant** · 加密市场策略回测与实盘
-▸ **工具 Tools** · 持续给同学写实用小工具
-▸ **在读 Study** · 北师港浸大 AI · 2027 届
+▸ **工具 Tools** · 持续输出校园工具
+▸ **在读 Study** · 北师港浸大 · 2027 届
 
 ---
 
@@ -66,7 +66,7 @@
 
 <img src="./assets/h-projects.svg" alt="PROJECTS · 精选项目" height="36"/>
 
-> 我更愿意用项目说话 · These are the things I actually built.
+> These are the things I actually built.
 
 <p align="center">
 <a href="https://github.com/xiaohuliming/Xtraffic-forecast"><img width="48%" src="./assets/card-xtraffic.svg" alt="Xtraffic-forecast" /></a>
