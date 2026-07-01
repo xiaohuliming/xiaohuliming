@@ -35,7 +35,7 @@
 
 ▸ **科研 Research** · 交通流预测的图神经网络（FourierDualNet vs STGNN）
 ▸ **量化 Quant** · 加密市场策略回测与实盘
-▸ **工具 Tools** · 持续输出校园工具
+▸ **工具 Tools** · 持续输出各种工具
 ▸ **在读 Study** · 北师港浸大 · 2027 届
 
 ---
