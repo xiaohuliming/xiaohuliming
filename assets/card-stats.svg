@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 200" width="450" height="200" role="img" aria-label="GitHub stats: 66 stars, 14 repos, 842 commits, 875 contributions, 10 PRs, best streak 18 days">
+<style>
+ .s{font-family:'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif}
+ .m{font-family:'SF Mono',ui-monospace,Menlo,Consolas,monospace}
+</style>
+<rect x="8" y="10" width="436" height="182" fill="#111111"/>
+<rect x="2" y="4" width="436" height="182" fill="#f4f1ea" stroke="#111111" stroke-width="3"/>
+
+<rect x="30" y="30" width="7" height="26" fill="#0A84FF"/>
+<text class="s" x="46" y="52" font-size="30" font-weight="800" fill="#111111">66</text>
+<text class="m" x="46" y="70" font-size="11.5" fill="#666666">Total Stars</text>
+<rect x="242" y="30" width="7" height="26" fill="#FF453A"/>
+<text class="s" x="258" y="52" font-size="30" font-weight="800" fill="#111111">14</text>
+<text class="m" x="258" y="70" font-size="11.5" fill="#666666">Public Repos</text>
+
+<rect x="30" y="86" width="7" height="26" fill="#FFD60A"/>
+<text class="s" x="46" y="108" font-size="30" font-weight="800" fill="#111111">842</text>
+<text class="m" x="46" y="126" font-size="11.5" fill="#666666">Commits · 2026</text>
+<rect x="242" y="86" width="7" height="26" fill="#0A84FF"/>
+<text class="s" x="258" y="108" font-size="30" font-weight="800" fill="#111111">875</text>
+<text class="m" x="258" y="126" font-size="11.5" fill="#666666">Contributions</text>
+
+<rect x="30" y="142" width="7" height="26" fill="#FF453A"/>
+<text class="s" x="46" y="164" font-size="30" font-weight="800" fill="#111111">10</text>
+<text class="m" x="46" y="182" font-size="11.5" fill="#666666">Pull Requests</text>
+<rect x="242" y="142" width="7" height="26" fill="#FFD60A"/>
+<text class="s" x="258" y="164" font-size="30" font-weight="800" fill="#111111">18<tspan font-size="18">d</tspan></text>
+<text class="m" x="258" y="182" font-size="11.5" fill="#666666">Best Streak</text>
+</svg>

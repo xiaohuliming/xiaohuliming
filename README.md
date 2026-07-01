@@ -94,8 +94,8 @@
 <img src="./assets/h-stats.svg" alt="GITHUB STATS · 数据" height="36"/>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xiaohuliming&show_icons=true&include_all_commits=true&count_private=true&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&icon_color=FF453A&border_color=111111&border_radius=0&hide_border=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuliming&layout=compact&langs_count=8&bg_color=f4f1ea&title_color=0A84FF&text_color=111111&border_color=111111&border_radius=0&hide_border=false" alt="top languages" />
+<img width="48%" src="./assets/card-stats.svg" alt="GitHub stats" />
+<img width="48%" src="./assets/card-langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">

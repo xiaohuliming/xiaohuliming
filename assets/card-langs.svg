@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 200" width="450" height="200" role="img" aria-label="Most used languages: Python 87.7%, Jupyter 6.9%, HTML 3.8%, C 0.7%, JavaScript 0.2%, Cython 0.2%">
+<style>
+ .s{font-family:'Helvetica Neue',Arial,'PingFang SC','Microsoft YaHei',sans-serif}
+ .m{font-family:'SF Mono',ui-monospace,Menlo,Consolas,monospace}
+</style>
+<rect x="8" y="10" width="436" height="182" fill="#111111"/>
+<rect x="2" y="4" width="436" height="182" fill="#f4f1ea" stroke="#111111" stroke-width="3"/>
+
+<text class="m" x="24" y="34" font-size="12.5" font-weight="700" fill="#555555">常用语言 · MOST USED</text>
+
+<rect x="24" y="46" width="402" height="22" fill="#ffffff"/>
+<rect x="24" y="46" width="352.5" height="22" fill="#3572A5"/>
+<rect x="376.5" y="46" width="27.7" height="22" fill="#DA5B0B"/>
+<rect x="404.2" y="46" width="15.3" height="22" fill="#E34C26"/>
+<rect x="419.5" y="46" width="2.8" height="22" fill="#6E6E6E"/>
+<rect x="422.3" y="46" width="0.9" height="22" fill="#F1E05A"/>
+<rect x="423.2" y="46" width="0.9" height="22" fill="#FEDF5B"/>
+<rect x="24" y="46" width="402" height="22" fill="none" stroke="#111111" stroke-width="2.5"/>
+
+<circle cx="30" cy="100" r="5.5" fill="#3572A5"/>
+<text class="s" x="43" y="104" font-size="13.5" fill="#222222">Python <tspan fill="#666666">87.7%</tspan></text>
+<circle cx="236" cy="100" r="5.5" fill="#DA5B0B"/>
+<text class="s" x="249" y="104" font-size="13.5" fill="#222222">Jupyter Notebook <tspan fill="#666666">6.9%</tspan></text>
+
+<circle cx="30" cy="131" r="5.5" fill="#E34C26"/>
+<text class="s" x="43" y="135" font-size="13.5" fill="#222222">HTML <tspan fill="#666666">3.8%</tspan></text>
+<circle cx="236" cy="131" r="5.5" fill="#6E6E6E"/>
+<text class="s" x="249" y="135" font-size="13.5" fill="#222222">C <tspan fill="#666666">0.7%</tspan></text>
+
+<circle cx="30" cy="162" r="5.5" fill="#F1E05A" stroke="#ccc" stroke-width="0.5"/>
+<text class="s" x="43" y="166" font-size="13.5" fill="#222222">JavaScript <tspan fill="#666666">0.2%</tspan></text>
+<circle cx="236" cy="162" r="5.5" fill="#FEDF5B" stroke="#ccc" stroke-width="0.5"/>
+<text class="s" x="249" y="166" font-size="13.5" fill="#222222">Cython <tspan fill="#666666">0.2%</tspan></text>
+</svg>
