@@ -20,23 +20,26 @@
 
 <img src="./assets/h-about.svg" alt="ABOUT · 关于" height="36"/>
 
-这里是 **F0Xy 🦊**，北师港浸大 AI 本科在读。有大量的**商业项目开发经历**（BLACKPINK 深 / 港 / 澳快闪线上预约系统与电商系统）。最近在做**交通流预测的图神经网络**和推荐系统，也写了一堆小工具。技术之外也喜欢量化交易、Crypto、拍拍照片，日子基本就是代码与生活之间反复横跳。
+<p align="center">
+  <img src="./assets/neofetch.svg" alt="F0Xy@github — neofetch" width="100%"/>
+</p>
 
-> Hey, I'm **F0Xy**, an AI undergrad at UIC / BNBU.
-> Plenty of real-world commercial dev experience, including the online booking and e-commerce systems for the BLACKPINK pop-ups in Shenzhen, Hong Kong and Macau.
-> Lately into graph neural nets for traffic forecasting and recommender systems, plus a pile of handy tools for classmates.
-> Off the clock I trade, crypto, shoot photos, and bounce between code and life.
+我喜欢把想法飞快写成能跑的东西，享受从 0 到上线那一下。白天全栈，晚上图神经网络和量化，深夜 debug。
 
-**`Build small, ship often.`**
+> I turn ideas into things that actually run, from zero to shipped.
+> Full-stack by day, graph nets and quant by night, debugging past midnight.
+
+**`while (alive) { build(small); ship(often); }`**
 
 ---
 
 <img src="./assets/h-now.svg" alt="NOW · 正在做" height="36"/>
 
-▸ **科研 Research** · 交通流预测的图神经网络（FourierDualNet vs STGNN）
-▸ **量化 Quant** · 加密市场策略回测与实盘
-▸ **工具 Tools** · 持续输出各种工具
-▸ **在读 Study** · 北师港浸大 · 2027 届
+- 🔭 **Currently working on** · 交通流预测的图神经网络，FourierDualNet vs STGNN
+- 🌱 **Currently learning** · 更深的 GNN 架构、LLM agents、期权定价
+- 💬 **Ask me about** · Flask / Vue 全栈、高并发快闪电商、量化回测
+- ⚡ **Fun fact** · 给 BLACKPINK 快闪店写的系统扛过几万粉丝的整点抢购
+- 🎧 **Off the clock** · 量化、Crypto、拍照
 
 ---
 
@@ -97,6 +100,11 @@
 <img width="48%" src="./assets/card-stats.svg" alt="GitHub stats" />
 <img width="48%" src="./assets/card-langs.svg" alt="Most used languages" />
 </p>
+
+**🔨 最近活动 · Recent Activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuliming&bg_color=f4f1ea&color=111111&line=0A84FF&point=FF453A&area=true&area_color=FFD60A&hide_border=false&border_color=111111&radius=0&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
