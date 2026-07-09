@@ -104,6 +104,11 @@
 **🔨 最近活动 · Recent Activity**
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed 1 commit to [`xiaohuliming/xiaohuliming`](https://github.com/xiaohuliming/xiaohuliming) · 2026-07-09
+- 🔨 Pushed 1 commit to [`xiaohuliming/SlideCraft`](https://github.com/xiaohuliming/SlideCraft) · 2026-07-08
+- 🔨 Pushed 1 commit to [`xiaohuliming/OmniChat`](https://github.com/xiaohuliming/OmniChat) · 2026-07-08
+- 🔨 Pushed 1 commit to [`xiaohuliming/BNBU-scheduler`](https://github.com/xiaohuliming/BNBU-scheduler) · 2026-07-08
+- ⭐ Starred [`nesquena/hermes-webui`](https://github.com/nesquena/hermes-webui) · 2026-07-08
 <!--END_SECTION:activity-->
 
 <p align="center">
