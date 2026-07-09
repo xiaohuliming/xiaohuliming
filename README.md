@@ -24,8 +24,6 @@
   <img src="./assets/neofetch.svg" alt="F0Xy@github — neofetch" width="100%"/>
 </p>
 
-我喜欢把想法飞快写成能跑的东西，享受从 0 到上线那一下。白天全栈，晚上图神经网络和量化，深夜 debug。
-
 > I turn ideas into things that actually run, from zero to shipped.
 > Full-stack by day, graph nets and quant by night, debugging past midnight.
 
