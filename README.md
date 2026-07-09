@@ -95,15 +95,9 @@
 <img width="48%" src="./assets/card-langs.svg" alt="Most used languages" />
 </p>
 
-**最近活动 · Recent Activity**
-
-<!--START_SECTION:activity-->
-- Pushed 1 commit to [`xiaohuliming/xiaohuliming`](https://github.com/xiaohuliming/xiaohuliming) · 2026-07-09
-- Pushed 1 commit to [`xiaohuliming/SlideCraft`](https://github.com/xiaohuliming/SlideCraft) · 2026-07-08
-- Pushed 1 commit to [`xiaohuliming/OmniChat`](https://github.com/xiaohuliming/OmniChat) · 2026-07-08
-- Pushed 1 commit to [`xiaohuliming/BNBU-scheduler`](https://github.com/xiaohuliming/BNBU-scheduler) · 2026-07-08
-- Starred [`nesquena/hermes-webui`](https://github.com/nesquena/hermes-webui) · 2026-07-08
-<!--END_SECTION:activity-->
+<p align="center">
+<a href="https://github.com/xiaohuliming?tab=repositories"><img src="./assets/activity.svg" alt="Recent activity" width="100%" /></a>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuliming&bg_color=f4f1ea&color=111111&line=0A84FF&point=FF453A&area=true&area_color=FFD60A&hide_border=false&border_color=111111&radius=0&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
