@@ -38,23 +38,23 @@ def build(events):
                 continue
             seen_push.add(repo["name"])
             n = len(payload.get("commits", [])) or 1
-            line = f"🔨 Pushed {n} commit{'s' if n != 1 else ''} to {repo_link(repo)}"
+            line = f"Pushed {n} commit{'s' if n != 1 else ''} to {repo_link(repo)}"
         elif t == "PullRequestEvent":
             pr = payload.get("pull_request", {})
             action = payload.get("action", "")
             verb = "Merged" if action == "closed" and pr.get("merged") else action.capitalize()
-            line = f"🔀 {verb} PR [#{pr.get('number')}]({pr.get('html_url')}) in {repo_link(repo)}"
+            line = f"{verb} PR [#{pr.get('number')}]({pr.get('html_url')}) in {repo_link(repo)}"
         elif t == "IssuesEvent":
             issue = payload.get("issue", {})
-            line = f"❗ {payload.get('action', '').capitalize()} issue [#{issue.get('number')}]({issue.get('html_url')}) in {repo_link(repo)}"
+            line = f"{payload.get('action', '').capitalize()} issue [#{issue.get('number')}]({issue.get('html_url')}) in {repo_link(repo)}"
         elif t == "CreateEvent" and payload.get("ref_type") == "repository":
-            line = f"📦 Created repository {repo_link(repo)}"
+            line = f"Created repository {repo_link(repo)}"
         elif t == "ReleaseEvent":
-            line = f"🚀 Released {payload.get('release', {}).get('tag_name', '')} in {repo_link(repo)}"
+            line = f"Released {payload.get('release', {}).get('tag_name', '')} in {repo_link(repo)}"
         elif t == "WatchEvent":
-            line = f"⭐ Starred {repo_link(repo)}"
+            line = f"Starred {repo_link(repo)}"
         elif t == "ForkEvent":
-            line = f"🍴 Forked {repo_link(repo)}"
+            line = f"Forked {repo_link(repo)}"
         if line:
             lines.append(f"- {line} · {date}")
         if len(lines) >= MAX_LINES:
@@ -69,7 +69,7 @@ def main():
         print("activity fetch failed:", ex, file=sys.stderr)
         return
     if not lines:
-        lines = ["- 💤 Nothing public lately, probably heads-down building"]
+        lines = ["- Nothing public lately, probably heads-down building"]
     block = "<!--START_SECTION:activity-->\n" + "\n".join(lines) + "\n<!--END_SECTION:activity-->"
     md = open("README.md", encoding="utf-8").read()
     new = re.sub(r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->",

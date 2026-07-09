@@ -35,11 +35,11 @@
 
 <img src="./assets/h-now.svg" alt="NOW · 正在做" height="36"/>
 
-- 🔭 **Currently working on** · 交通流预测的图神经网络，FourierDualNet vs STGNN
-- 🌱 **Currently learning** · 更深的 GNN 架构、LLM agents、期权定价
-- 💬 **Ask me about** · Flask / Vue 全栈、高并发快闪电商、量化回测
-- ⚡ **Fun fact** · 给 BLACKPINK 快闪店写的系统扛过几万粉丝的整点抢购
-- 🎧 **Off the clock** · 量化、Crypto、拍照
+- **Currently working on** · 交通流预测的图神经网络，FourierDualNet vs STGNN
+- **Currently learning** · 更深的 GNN 架构、LLM agents、期权定价
+- **Ask me about** · Flask / Vue 全栈、高并发快闪电商、量化回测
+- **Fun fact** · 给 BLACKPINK 快闪店写的系统扛过几万粉丝的整点抢购
+- **Off the clock** · 量化、Crypto、拍照
 
 ---
 
@@ -90,10 +90,6 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/marquee.svg" alt="marquee" width="100%"/>
-</p>
-
 <img src="./assets/h-stats.svg" alt="GITHUB STATS · 数据" height="36"/>
 
 <p align="center">
@@ -101,14 +97,14 @@
 <img width="48%" src="./assets/card-langs.svg" alt="Most used languages" />
 </p>
 
-**🔨 最近活动 · Recent Activity**
+**最近活动 · Recent Activity**
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit to [`xiaohuliming/xiaohuliming`](https://github.com/xiaohuliming/xiaohuliming) · 2026-07-09
-- 🔨 Pushed 1 commit to [`xiaohuliming/SlideCraft`](https://github.com/xiaohuliming/SlideCraft) · 2026-07-08
-- 🔨 Pushed 1 commit to [`xiaohuliming/OmniChat`](https://github.com/xiaohuliming/OmniChat) · 2026-07-08
-- 🔨 Pushed 1 commit to [`xiaohuliming/BNBU-scheduler`](https://github.com/xiaohuliming/BNBU-scheduler) · 2026-07-08
-- ⭐ Starred [`nesquena/hermes-webui`](https://github.com/nesquena/hermes-webui) · 2026-07-08
+- Pushed 1 commit to [`xiaohuliming/xiaohuliming`](https://github.com/xiaohuliming/xiaohuliming) · 2026-07-09
+- Pushed 1 commit to [`xiaohuliming/SlideCraft`](https://github.com/xiaohuliming/SlideCraft) · 2026-07-08
+- Pushed 1 commit to [`xiaohuliming/OmniChat`](https://github.com/xiaohuliming/OmniChat) · 2026-07-08
+- Pushed 1 commit to [`xiaohuliming/BNBU-scheduler`](https://github.com/xiaohuliming/BNBU-scheduler) · 2026-07-08
+- Starred [`nesquena/hermes-webui`](https://github.com/nesquena/hermes-webui) · 2026-07-08
 <!--END_SECTION:activity-->
 
 <p align="center">
@@ -128,6 +124,6 @@
 <a href="https://github.com/xiaohuliming"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
-<p align="center"><sub>🦊 Thanks for stopping by · 感谢到访</sub></p>
+<p align="center"><sub>Thanks for stopping by · 感谢到访</sub></p>
 
 <!-- profile readme -->
