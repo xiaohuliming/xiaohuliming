@@ -112,7 +112,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohuliming&bg_color=f4f1ea&color=111111&line=0A84FF&point=FF453A&area=true&area_color=FFD60A&hide_border=false&border_color=111111&radius=0&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
+<a href="https://github.com/xiaohuliming?tab=overview"><img src="./assets/activity-graph.svg" alt="GitHub contributions over the last 31 days" width="100%" /></a>
 </p>
 
 <p align="center">
