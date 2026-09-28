@@ -1,7 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" role="img" aria-labelledby="t d" font-family="'SF Mono',ui-monospace,Menlo,Consolas,monospace">
 <title id="t">F0Xy@github — neofetch</title>
-<desc id="d">Neo-brutalist terminal card in neofetch style: an origami fox logo beside a spec sheet of skills, years coding and shipped work, with a blinking cursor.</desc>
+<desc id="d">Neo-brutalist terminal card in neofetch style: a friendly fox mascot with soft fur, bright eyes and a subtle blink beside a spec sheet of skills, years coding and shipped work, with a blinking cursor.</desc>
 <defs>
+  <linearGradient id="fox-coat" x1="0" y1="0" x2="0.2" y2="1">
+    <stop offset="0" stop-color="#FF8159"/>
+    <stop offset="0.6" stop-color="#FF5A43"/>
+    <stop offset="1" stop-color="#F34236"/>
+  </linearGradient>
+  <linearGradient id="fox-cream" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFDF5"/>
+    <stop offset="1" stop-color="#FFF0D8"/>
+  </linearGradient>
   <pattern id="ng" width="20" height="20" patternUnits="userSpaceOnUse">
     <circle cx="2" cy="2" r="1.5" fill="#111111" opacity="0.06"/>
   </pattern>
@@ -14,6 +23,9 @@
   .k{font-weight:700}
   .panel{animation:snap .6s cubic-bezier(0.16,1,0.3,1) both;transform-box:fill-box;transform-origin:top left}
   @keyframes snap{from{transform:translate(-8px,-8px)}to{transform:translate(0,0)}}
+  .fox-eyes{animation:fox-blink 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes fox-blink{0%,91%,96%,100%{transform:scaleY(1)}93%,94%{transform:scaleY(.08)}}
+  @media (prefers-reduced-motion:reduce){.fox-eyes{animation:none}}
 </style>
 
 <!-- shadow + panel -->
@@ -31,23 +43,52 @@
 <text x="104" y="36" font-size="13.5" fill="#e8e4d8">F0Xy@github: ~/profile</text>
 <text x="828" y="36" text-anchor="end" font-size="13" fill="#8a8a8a">— zsh —</text>
 
-<!-- ===== LEFT: origami fox ===== -->
-<g stroke="#111111" stroke-width="4" stroke-linejoin="round">
-  <!-- ears (behind face) -->
-  <polygon points="100,126 80,52 158,120" fill="#FF453A"/>
-  <polygon points="200,126 220,52 142,120"/>
-  <polygon points="200,126 220,52 142,120" fill="#FF453A"/>
-  <polygon points="107,120 96,74 146,120" fill="#111111" stroke-width="0"/>
-  <polygon points="193,120 204,74 154,120" fill="#111111" stroke-width="0"/>
-  <!-- face -->
-  <polygon points="92,114 208,114 199,174 150,240 101,174" fill="#FF453A"/>
-  <!-- white muzzle -->
-  <polygon points="116,156 184,156 150,224" fill="#f7f4ec" stroke-width="3"/>
+<!-- ===== LEFT: fox mascot ===== -->
+<ellipse cx="153" cy="257" rx="57" ry="5" fill="#111111" opacity="0.07"/>
+<g id="fox-mascot" transform="rotate(-4 150 162)" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Soft ears with warm inner fur -->
+  <g fill="url(#fox-coat)" stroke="#211915" stroke-width="3.5">
+    <path d="M94 148C82 131 65 84 75 69C81 59 113 83 131 116Z"/>
+    <path d="M206 148C218 131 235 84 225 69C219 59 187 83 169 116Z"/>
+  </g>
+  <path d="M91 127C85 112 80 90 83 81C96 87 111 101 119 114Z" fill="#FFB5A0"/>
+  <path d="M209 127C215 112 220 90 217 81C204 87 189 101 181 114Z" fill="#FFB5A0"/>
+  <path d="M93 119C90 110 87 100 87 94L109 114Z" fill="#FFE3CC"/>
+  <path d="M207 119C210 110 213 100 213 94L191 114Z" fill="#FFE3CC"/>
+
+  <!-- Rounded silhouette with little cheek tufts -->
+  <path d="M129 111Q138 99 151 98L146 109Q157 104 160 97Q172 102 176 113C195 117 209 130 213 147Q217 158 231 163Q236 165 229 170L224 173L230 177Q230 181 222 183C211 211 180 234 156 244Q150 247 144 244C120 234 89 211 78 183Q70 181 70 177L76 173L71 170Q64 165 69 163Q83 158 87 147C91 128 106 115 129 111Z" fill="url(#fox-coat)" stroke="#211915" stroke-width="3.5"/>
+
+  <!-- A single cream mask keeps the muzzle soft -->
+  <path d="M89 151C106 141 130 158 150 174C170 158 194 141 211 151C224 171 212 194 195 211C180 226 162 237 150 242C138 237 120 226 105 211C88 194 76 171 89 151Z" fill="url(#fox-cream)"/>
+  <path d="M144 123Q150 119 157 123Q154 131 150 135Q146 130 144 123Z" fill="#FFE2BF" opacity="0.85"/>
+  <path d="M103 135Q110 125 122 122" fill="none" stroke="#FFAD83" stroke-width="3.5"/>
+
+  <!-- Glossy eyes; slow, occasional blink -->
+  <g class="fox-eyes">
+    <ellipse cx="117" cy="166" rx="8.3" ry="11.5" fill="#211915"/>
+    <ellipse cx="183" cy="166" rx="8.3" ry="11.5" fill="#211915"/>
+    <ellipse cx="117.8" cy="171" rx="4.2" ry="3.4" fill="#714B39"/>
+    <ellipse cx="183.8" cy="171" rx="4.2" ry="3.4" fill="#714B39"/>
+    <circle cx="114.8" cy="162.5" r="3.1" fill="#FFFFFF"/>
+    <circle cx="180.8" cy="162.5" r="3.1" fill="#FFFFFF"/>
+    <circle cx="120.2" cy="170.2" r="1.35" fill="#FFFFFF"/>
+    <circle cx="186.2" cy="170.2" r="1.35" fill="#FFFFFF"/>
+  </g>
+  <path d="M108 147Q113 144 119 146M181 146Q187 144 192 147" fill="none" stroke="#B83F32" stroke-width="2.5"/>
+
+  <!-- Blush, tiny freckles and a smiling nose -->
+  <ellipse cx="102" cy="188" rx="11" ry="6.2" fill="#FFACA0" opacity="0.7"/>
+  <ellipse cx="198" cy="188" rx="11" ry="6.2" fill="#FFACA0" opacity="0.7"/>
+  <g fill="#DB8871" opacity="0.65">
+    <circle cx="99" cy="185.5" r="1.05"/><circle cx="106" cy="187" r="1.05"/>
+    <circle cx="194" cy="187" r="1.05"/><circle cx="201" cy="185.5" r="1.05"/>
+  </g>
+  <path d="M142 188Q150 185 158 188C163 191 155 198 150 199C145 198 137 191 142 188Z" fill="#211915"/>
+  <path d="M145 190Q149 189 152 190" fill="none" stroke="#795B4B" stroke-width="1.8"/>
+  <path d="M150 199V203M138 207Q144 214 150 203Q156 214 162 207" fill="none" stroke="#211915" stroke-width="2.4"/>
+  <path d="M139 225Q150 230 161 225" fill="none" stroke="#EED8BD" stroke-width="2"/>
 </g>
-<!-- eyes + nose -->
-<polygon points="120,138 148,148 123,155" fill="#111111"/>
-<polygon points="180,138 152,148 177,155" fill="#111111"/>
-<polygon points="143,190 157,190 150,201" fill="#111111"/>
 
 <!-- ===== RIGHT: neofetch spec ===== -->
 <g font-size="15">
