@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=xiaohuliming&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="profile views" />
   &nbsp;
   <a href="https://github.com/xiaohuliming?tab=followers"><img src="https://img.shields.io/github/followers/xiaohuliming?label=FOLLOW&style=for-the-badge&color=0A84FF&labelColor=111111" alt="followers" /></a>
+  &nbsp;
+  <a href="https://f0xy.me"><img src="https://img.shields.io/badge/WEBSITE-f0xy.me-0A84FF?style=for-the-badge&labelColor=111111" alt="Personal website: f0xy.me" /></a>
 </p>
 
 ---
@@ -112,6 +114,7 @@
 <img src="./assets/h-connect.svg" alt="CONNECT · 联系" height="36"/>
 
 <p align="center">
+<a href="https://f0xy.me"><img src="https://img.shields.io/badge/WEBSITE-f0xy.me-0A84FF?style=for-the-badge&labelColor=111111" alt="Personal website: f0xy.me" /></a>
 <a href="mailto:xiaohulimings@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FF453A" alt="email" /></a>
 <a href="https://github.com/xiaohuliming"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
