@@ -80,6 +80,16 @@
 <a href="https://github.com/xiaohuliming/MLWcode"><img width="48%" src="./assets/card-mlw.svg" alt="MLWcode" /></a>
 </p>
 
+**研究论文 · Research**
+
+**[ADNet: Disentangling Heterogeneous Traffic Dynamics for Multi-Step Traffic Forecasting via Adaptive Spectral Decomposition](https://arxiv.org/abs/2609.25777)**
+
+**Zijun Huang** · First author · arXiv preprint · September 2026
+
+通过可学习的互补频谱分解，将交通信号拆分为主导与残差分量，再由双分支分别建模，实现多步交通预测。
+
+[![arXiv](https://img.shields.io/badge/arXiv-2609.25777-FF453A?style=flat-square&labelColor=111111)](https://arxiv.org/abs/2609.25777)
+
 **更多 · More**
 
 [![ddl-helper](https://img.shields.io/badge/BNBU--ispace--ddl--helper-Chrome%20Ext-111111?style=flat-square&logo=googlechrome&logoColor=FFD60A)](https://github.com/xiaohuliming/BNBU-ispace-ddl-helper) [![recommendation](https://img.shields.io/badge/Content--based--recommendation-Recsys-111111?style=flat-square&logo=python&logoColor=0A84FF)](https://github.com/xiaohuliming/Content-based-recommendation) [![all repos](https://img.shields.io/badge/All%20Repos-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaohuliming?tab=repositories)
