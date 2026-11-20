@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-labelledby="title desc">
 <title id="title">Contribution Activity</title>
-<desc id="desc">xiaohuliming: 205 contributions from 2026-10-21 to 2026-11-20, as shown on the public GitHub profile. Today is partial.</desc>
+<desc id="desc">xiaohuliming: 211 contributions from 2026-10-21 to 2026-11-20, as shown on the public GitHub profile. Today is partial.</desc>
 <style>text{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#111111}.muted{fill:#666666}</style>
 <rect x="16" y="20" width="848" height="270" fill="#111111"/>
 <rect x="8" y="12" width="848" height="270" fill="#f4f1ea" stroke="#111111" stroke-width="4"/>
 <rect x="34" y="32" width="8" height="22" fill="#0A84FF"/>
 <text x="52" y="50" font-size="17" font-weight="700">CONTRIBUTION ACTIVITY</text>
 <text x="832" y="49" text-anchor="end" font-size="12" class="muted">LAST 31 DAYS</text>
-<text x="34" y="78" font-size="13">205 contributions · 26 active days</text>
+<text x="34" y="78" font-size="13">211 contributions · 26 active days</text>
 <text x="832" y="78" text-anchor="end" font-size="11" class="muted">2026-10-21 — 2026-11-20</text>
 <line x1="64" y1="225.0" x2="832" y2="225.0" stroke="#111111" stroke-opacity="0.12"/>
 <text x="52" y="229.0" text-anchor="end" font-size="11" class="muted">0</text>
@@ -19,8 +19,8 @@
 <text x="52" y="143.5" text-anchor="end" font-size="11" class="muted">24</text>
 <line x1="64" y1="111.0" x2="832" y2="111.0" stroke="#111111" stroke-opacity="0.12"/>
 <text x="52" y="115.0" text-anchor="end" font-size="11" class="muted">32</text>
-<polygon points="64,225 64.00,171.56 89.60,125.25 115.20,192.94 140.80,200.06 166.40,200.06 192.00,192.94 217.60,214.31 243.20,203.62 268.80,171.56 294.40,203.62 320.00,214.31 345.60,207.19 371.20,185.81 396.80,221.44 422.40,225.00 448.00,200.06 473.60,225.00 499.20,225.00 524.80,210.75 550.40,114.56 576.00,210.75 601.60,200.06 627.20,214.31 652.80,225.00 678.40,221.44 704.00,225.00 729.60,221.44 755.20,210.75 780.80,217.88 806.40,171.56 832.00,221.44 832,225" fill="#FFD60A" fill-opacity="0.28"/>
-<polyline points="64.00,171.56 89.60,125.25 115.20,192.94 140.80,200.06 166.40,200.06 192.00,192.94 217.60,214.31 243.20,203.62 268.80,171.56 294.40,203.62 320.00,214.31 345.60,207.19 371.20,185.81 396.80,221.44 422.40,225.00 448.00,200.06 473.60,225.00 499.20,225.00 524.80,210.75 550.40,114.56 576.00,210.75 601.60,200.06 627.20,214.31 652.80,225.00 678.40,221.44 704.00,225.00 729.60,221.44 755.20,210.75 780.80,217.88 806.40,171.56 832.00,221.44" fill="none" stroke="#0A84FF" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="64,225 64.00,171.56 89.60,125.25 115.20,192.94 140.80,200.06 166.40,200.06 192.00,192.94 217.60,214.31 243.20,203.62 268.80,171.56 294.40,203.62 320.00,214.31 345.60,207.19 371.20,185.81 396.80,221.44 422.40,225.00 448.00,200.06 473.60,225.00 499.20,225.00 524.80,210.75 550.40,114.56 576.00,210.75 601.60,200.06 627.20,214.31 652.80,225.00 678.40,221.44 704.00,225.00 729.60,221.44 755.20,210.75 780.80,217.88 806.40,171.56 832.00,200.06 832,225" fill="#FFD60A" fill-opacity="0.28"/>
+<polyline points="64.00,171.56 89.60,125.25 115.20,192.94 140.80,200.06 166.40,200.06 192.00,192.94 217.60,214.31 243.20,203.62 268.80,171.56 294.40,203.62 320.00,214.31 345.60,207.19 371.20,185.81 396.80,221.44 422.40,225.00 448.00,200.06 473.60,225.00 499.20,225.00 524.80,210.75 550.40,114.56 576.00,210.75 601.60,200.06 627.20,214.31 652.80,225.00 678.40,221.44 704.00,225.00 729.60,221.44 755.20,210.75 780.80,217.88 806.40,171.56 832.00,200.06" fill="none" stroke="#0A84FF" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="64.00" cy="171.56" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-10-21: 15 contributions</title></circle>
 <circle cx="89.60" cy="125.25" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-10-22: 28 contributions</title></circle>
 <circle cx="115.20" cy="192.94" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-10-23: 9 contributions</title></circle>
@@ -51,7 +51,7 @@
 <circle cx="755.20" cy="210.75" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-11-17: 4 contributions</title></circle>
 <circle cx="780.80" cy="217.88" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-11-18: 2 contributions</title></circle>
 <circle cx="806.40" cy="171.56" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-11-19: 15 contributions</title></circle>
-<circle cx="832.00" cy="221.44" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-11-20: 1 contributions</title></circle>
+<circle cx="832.00" cy="200.06" r="3" fill="#FF453A" stroke="#f4f1ea" stroke-width="1"><title>2026-11-20: 7 contributions</title></circle>
 <text x="64.00" y="246" text-anchor="middle" font-size="11" class="muted">10/21</text>
 <text x="192.00" y="246" text-anchor="middle" font-size="11" class="muted">10/26</text>
 <text x="320.00" y="246" text-anchor="middle" font-size="11" class="muted">10/31</text>
